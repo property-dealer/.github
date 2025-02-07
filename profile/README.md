@@ -139,8 +139,6 @@ For more information and expert guidance, contact Sunny Properties today:
 - **Instagram:** [➤ ►🌍📺📱Sunny Property's Instagram](https://bit.ly/4177t6p)
 
 ---
-```html
-<meta name="google-site-verification" content="qABd4b2-S8DeGdqBrUbcXJInSl5jGDXS7s2Ndy6ZbK4" />
 
 **Sunny Properties**
 Your Trusted Real Estate Partner in India
